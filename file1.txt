@@ -1,1 +1,2 @@
 Hello world
+today is 7th day and this is my new code 
